@@ -1,0 +1,6 @@
+git init
+git status
+# creamos un archivo nuevo y después
+git add .
+# hasta acá NO se guardaron los cambios, para hacerlo tengo que crear un commit
+git commit -m "IMPORTANTE: acá va la descripción del commit"

@@ -1,3 +1,8 @@
+# Introduccion a Git y Markdown
+
+## Comandos del día
+
+```bash
 git init
 git status
 # creamos un archivo nuevo y después
@@ -5,4 +10,6 @@ git add .
 # hasta acá NO se guardaron los cambios, para hacerlo tengo que crear un commit
 git commit -m "IMPORTANTE: acá va la descripción del commit"
 
-# hicimos algún commit más y revisamos el historial de commits con git log
+# hicimos algún commit más y revisamos el historial de commits
+```
+## Markdown y README.md
